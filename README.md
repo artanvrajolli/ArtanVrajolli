@@ -1,11 +1,20 @@
-### Hi there 👋
- `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+Hello! I'm Artan Vrajolli, and I'm thrilled you're visiting my GitHub profile.
 
-- 🔭 I’m currently working on The Social Plus
-- 🌱 I’m currently learning Frontend
-- 👯 I’m looking to collaborate on all techs/programming language
-- 📫 How to reach me email:artanvrajolli@gmail.com
+## Current Projects
 
+- 🔭 I’m currently working on The Social Plus.
 
+## Learning & Growth
+
+- 🌱 I’m currently learning Frontend Development, with a focus on Node, React, NextJS.
+
+## Collaboration
+
+- 👯 I’m always looking for opportunities to collaborate on interesting projects. I have experience in a variety of techs/programming languages and I'm always looking to expand my skill set.
+
+## Contact
+
+- 📫 If you'd like to get in touch, the best way is through email at artanvrajolli@gmail.com.
+- 💼 You can also connect with me on LinkedIn https://www.linkedin.com/in/artanvrajolli/. I'd love to hear from you!
