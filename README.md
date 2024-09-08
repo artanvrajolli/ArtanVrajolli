@@ -8,11 +8,11 @@ Hello! I'm Artan Vrajolli, and I'm thrilled you're visiting my GitHub profile.
 
 ## Learning & Growth
 
-- 🌱 I’m currently learning Frontend Development, with a focus on Node, React, NextJS.
+- 🌱 I’m currently learning Backend Development, focusing on PHP, Laravel, and Mysql.
 
 ## Collaboration
 
-- 👯 I’m always looking for opportunities to collaborate on interesting projects. I have experience in a variety of techs/programming languages and I'm always looking to expand my skill set.
+- 👯 I’m always looking for opportunities to collaborate on interesting projects. I have experience in various techs/programming languages and I'm always looking to expand my skill set.
 
 ## Contact
 
