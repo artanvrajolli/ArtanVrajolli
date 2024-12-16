@@ -8,7 +8,7 @@ Hello! I'm Artan Vrajolli, and I'm thrilled you're visiting my GitHub profile.
 
 ## Learning & Growth
 
-- 🌱 I’m currently learning Backend Development, focusing on PHP, Laravel, and Mysql.
+- 🌱 I’m currently learning Backend Development, focusing on PHP, Laravel, NodeJS, and Python.
 
 ## Collaboration
 
