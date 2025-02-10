@@ -1,14 +1,15 @@
 ## Introduction
 
-Hello! I'm Artan Vrajolli, and I'm thrilled you're visiting my GitHub profile.
+Hello Explorer
+I'm Artan Vrajolli, and I'm thrilled you're visiting my GitHub profile.
 
 ## Current Projects
 
-- 🔭 I’m currently working on The Social Plus.
+- 🔭 I’m currently working for The Social Plus.
 
 ## Learning & Growth
 
-- 🌱 I’m currently learning Backend Development, focusing on PHP, Laravel, NodeJS, and Python.
+- 🌱 I’m currently learning Backend Development, focusing on PHP, Laravel, NodeJS, Python and React
 
 ## Collaboration
 
